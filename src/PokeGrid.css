@@ -1,0 +1,16 @@
+.PokeGrid {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    width:400px;
+    height: 900px;
+    background-color: yellow;
+    overflow: auto;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+img {
+    width: 100px;
+    height: 80px;
+}
